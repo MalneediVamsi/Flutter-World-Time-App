@@ -1,6 +1,6 @@
 # world_time_app
 
-A new Flutter application.
+Getting time of a selected time zone, from the list of different time zones, through HTTP URL and displaying it.
 
 ## Getting Started
 
